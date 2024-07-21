@@ -1,5 +1,6 @@
 #include "mainwindow.h"
 
+
 #include <QApplication>
 #include <QDesktopWidget>
 
@@ -10,4 +11,3 @@ int main(int argc, char *argv[])
     w.show();
     return a.exec();
 }
-

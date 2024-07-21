@@ -1,6 +1,8 @@
 #include "mainwindow.h"
 #include "ui_mainwindow.h"
 
+//test mod for Git Test
+//In Qt Create
 QString NAME;
 QString PWD;
 bool PASSWORDisVALID=false;

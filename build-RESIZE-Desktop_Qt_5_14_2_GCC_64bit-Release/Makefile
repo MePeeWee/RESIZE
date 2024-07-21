@@ -1294,7 +1294,51 @@ BAL_LISTING.o: ../BAL_LISTING.cpp ../mainwindow.h \
 		../../../Qt/5.14.2/gcc_64/include/QtWidgets/qtableview.h \
 		../../../Qt/5.14.2/gcc_64/include/QtSql \
 		../../../Qt/5.14.2/gcc_64/include/QtCore/QFile \
-		ui_mainwindow.h
+		ui_mainwindow.h \
+		../../../Qt/5.14.2/gcc_64/include/QtCore/QVariant \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/QApplication \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/qapplication.h \
+		../../../Qt/5.14.2/gcc_64/include/QtCore/qcoreapplication.h \
+		../../../Qt/5.14.2/gcc_64/include/QtCore/qeventloop.h \
+		../../../Qt/5.14.2/gcc_64/include/QtGui/qguiapplication.h \
+		../../../Qt/5.14.2/gcc_64/include/QtGui/qinputmethod.h \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/QCheckBox \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/qcheckbox.h \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/qabstractbutton.h \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/QFrame \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/QGridLayout \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/qgridlayout.h \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/qlayout.h \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/qlayoutitem.h \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/qboxlayout.h \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/QGroupBox \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/qgroupbox.h \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/QHBoxLayout \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/QLabel \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/qlabel.h \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/QMenuBar \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/qmenubar.h \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/qmenu.h \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/qaction.h \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/qactiongroup.h \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/QPushButton \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/qpushbutton.h \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/QRadioButton \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/qradiobutton.h \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/QSpacerItem \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/QSpinBox \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/qspinbox.h \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/QStatusBar \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/qstatusbar.h \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/QTextEdit \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/qtextedit.h \
+		../../../Qt/5.14.2/gcc_64/include/QtGui/qtextdocument.h \
+		../../../Qt/5.14.2/gcc_64/include/QtGui/qtextoption.h \
+		../../../Qt/5.14.2/gcc_64/include/QtGui/qtextcursor.h \
+		../../../Qt/5.14.2/gcc_64/include/QtGui/qtextformat.h \
+		../../../Qt/5.14.2/gcc_64/include/QtGui/qpen.h \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/QVBoxLayout \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/QWidget
 	$(CXX) -c $(CXXFLAGS) $(INCPATH) -o BAL_LISTING.o ../BAL_LISTING.cpp
 
 DATA_UPDATE.o: ../DATA_UPDATE.cpp ../mainwindow.h \
@@ -1444,7 +1488,51 @@ DATA_UPDATE.o: ../DATA_UPDATE.cpp ../mainwindow.h \
 		../../../Qt/5.14.2/gcc_64/include/QtWidgets/qtableview.h \
 		../../../Qt/5.14.2/gcc_64/include/QtSql \
 		../../../Qt/5.14.2/gcc_64/include/QtCore/QFile \
-		ui_mainwindow.h
+		ui_mainwindow.h \
+		../../../Qt/5.14.2/gcc_64/include/QtCore/QVariant \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/QApplication \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/qapplication.h \
+		../../../Qt/5.14.2/gcc_64/include/QtCore/qcoreapplication.h \
+		../../../Qt/5.14.2/gcc_64/include/QtCore/qeventloop.h \
+		../../../Qt/5.14.2/gcc_64/include/QtGui/qguiapplication.h \
+		../../../Qt/5.14.2/gcc_64/include/QtGui/qinputmethod.h \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/QCheckBox \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/qcheckbox.h \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/qabstractbutton.h \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/QFrame \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/QGridLayout \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/qgridlayout.h \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/qlayout.h \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/qlayoutitem.h \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/qboxlayout.h \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/QGroupBox \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/qgroupbox.h \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/QHBoxLayout \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/QLabel \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/qlabel.h \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/QMenuBar \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/qmenubar.h \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/qmenu.h \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/qaction.h \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/qactiongroup.h \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/QPushButton \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/qpushbutton.h \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/QRadioButton \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/qradiobutton.h \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/QSpacerItem \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/QSpinBox \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/qspinbox.h \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/QStatusBar \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/qstatusbar.h \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/QTextEdit \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/qtextedit.h \
+		../../../Qt/5.14.2/gcc_64/include/QtGui/qtextdocument.h \
+		../../../Qt/5.14.2/gcc_64/include/QtGui/qtextoption.h \
+		../../../Qt/5.14.2/gcc_64/include/QtGui/qtextcursor.h \
+		../../../Qt/5.14.2/gcc_64/include/QtGui/qtextformat.h \
+		../../../Qt/5.14.2/gcc_64/include/QtGui/qpen.h \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/QVBoxLayout \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/QWidget
 	$(CXX) -c $(CXXFLAGS) $(INCPATH) -o DATA_UPDATE.o ../DATA_UPDATE.cpp
 
 SCREEN_SIZE_CONTRL.o: ../SCREEN_SIZE_CONTRL.cpp ../mainwindow.h \
@@ -1594,7 +1682,51 @@ SCREEN_SIZE_CONTRL.o: ../SCREEN_SIZE_CONTRL.cpp ../mainwindow.h \
 		../../../Qt/5.14.2/gcc_64/include/QtWidgets/qtableview.h \
 		../../../Qt/5.14.2/gcc_64/include/QtSql \
 		../../../Qt/5.14.2/gcc_64/include/QtCore/QFile \
-		ui_mainwindow.h
+		ui_mainwindow.h \
+		../../../Qt/5.14.2/gcc_64/include/QtCore/QVariant \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/QApplication \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/qapplication.h \
+		../../../Qt/5.14.2/gcc_64/include/QtCore/qcoreapplication.h \
+		../../../Qt/5.14.2/gcc_64/include/QtCore/qeventloop.h \
+		../../../Qt/5.14.2/gcc_64/include/QtGui/qguiapplication.h \
+		../../../Qt/5.14.2/gcc_64/include/QtGui/qinputmethod.h \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/QCheckBox \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/qcheckbox.h \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/qabstractbutton.h \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/QFrame \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/QGridLayout \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/qgridlayout.h \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/qlayout.h \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/qlayoutitem.h \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/qboxlayout.h \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/QGroupBox \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/qgroupbox.h \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/QHBoxLayout \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/QLabel \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/qlabel.h \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/QMenuBar \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/qmenubar.h \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/qmenu.h \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/qaction.h \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/qactiongroup.h \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/QPushButton \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/qpushbutton.h \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/QRadioButton \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/qradiobutton.h \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/QSpacerItem \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/QSpinBox \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/qspinbox.h \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/QStatusBar \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/qstatusbar.h \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/QTextEdit \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/qtextedit.h \
+		../../../Qt/5.14.2/gcc_64/include/QtGui/qtextdocument.h \
+		../../../Qt/5.14.2/gcc_64/include/QtGui/qtextoption.h \
+		../../../Qt/5.14.2/gcc_64/include/QtGui/qtextcursor.h \
+		../../../Qt/5.14.2/gcc_64/include/QtGui/qtextformat.h \
+		../../../Qt/5.14.2/gcc_64/include/QtGui/qpen.h \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/QVBoxLayout \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/QWidget
 	$(CXX) -c $(CXXFLAGS) $(INCPATH) -o SCREEN_SIZE_CONTRL.o ../SCREEN_SIZE_CONTRL.cpp
 
 customsqlmodel.o: ../customsqlmodel.cpp ../../../Qt/5.14.2/gcc_64/include/QtWidgets \
@@ -1818,7 +1950,32 @@ logindialog.o: ../logindialog.cpp ../../../Qt/5.14.2/gcc_64/include/QtWidgets/QM
 		../../../Qt/5.14.2/gcc_64/include/QtWidgets/qtableview.h \
 		../../../Qt/5.14.2/gcc_64/include/QtSql \
 		../../../Qt/5.14.2/gcc_64/include/QtCore/QFile \
-		ui_logindialog.h
+		ui_logindialog.h \
+		../../../Qt/5.14.2/gcc_64/include/QtCore/QVariant \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/QApplication \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/qapplication.h \
+		../../../Qt/5.14.2/gcc_64/include/QtCore/qcoreapplication.h \
+		../../../Qt/5.14.2/gcc_64/include/QtCore/qeventloop.h \
+		../../../Qt/5.14.2/gcc_64/include/QtGui/qguiapplication.h \
+		../../../Qt/5.14.2/gcc_64/include/QtGui/qinputmethod.h \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/QHBoxLayout \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/qboxlayout.h \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/qlayout.h \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/qlayoutitem.h \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/qgridlayout.h \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/QLabel \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/qlabel.h \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/QLineEdit \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/qlineedit.h \
+		../../../Qt/5.14.2/gcc_64/include/QtGui/qtextcursor.h \
+		../../../Qt/5.14.2/gcc_64/include/QtGui/qtextformat.h \
+		../../../Qt/5.14.2/gcc_64/include/QtGui/qpen.h \
+		../../../Qt/5.14.2/gcc_64/include/QtGui/qtextoption.h \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/QPushButton \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/qpushbutton.h \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/qabstractbutton.h \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/QVBoxLayout \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/QWidget
 	$(CXX) -c $(CXXFLAGS) $(INCPATH) -o logindialog.o ../logindialog.cpp
 
 main.o: ../main.cpp ../mainwindow.h \
@@ -2123,7 +2280,51 @@ mainwindow.o: ../mainwindow.cpp ../mainwindow.h \
 		../../../Qt/5.14.2/gcc_64/include/QtWidgets/qtableview.h \
 		../../../Qt/5.14.2/gcc_64/include/QtSql \
 		../../../Qt/5.14.2/gcc_64/include/QtCore/QFile \
-		ui_mainwindow.h
+		ui_mainwindow.h \
+		../../../Qt/5.14.2/gcc_64/include/QtCore/QVariant \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/QApplication \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/qapplication.h \
+		../../../Qt/5.14.2/gcc_64/include/QtCore/qcoreapplication.h \
+		../../../Qt/5.14.2/gcc_64/include/QtCore/qeventloop.h \
+		../../../Qt/5.14.2/gcc_64/include/QtGui/qguiapplication.h \
+		../../../Qt/5.14.2/gcc_64/include/QtGui/qinputmethod.h \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/QCheckBox \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/qcheckbox.h \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/qabstractbutton.h \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/QFrame \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/QGridLayout \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/qgridlayout.h \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/qlayout.h \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/qlayoutitem.h \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/qboxlayout.h \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/QGroupBox \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/qgroupbox.h \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/QHBoxLayout \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/QLabel \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/qlabel.h \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/QMenuBar \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/qmenubar.h \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/qmenu.h \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/qaction.h \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/qactiongroup.h \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/QPushButton \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/qpushbutton.h \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/QRadioButton \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/qradiobutton.h \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/QSpacerItem \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/QSpinBox \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/qspinbox.h \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/QStatusBar \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/qstatusbar.h \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/QTextEdit \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/qtextedit.h \
+		../../../Qt/5.14.2/gcc_64/include/QtGui/qtextdocument.h \
+		../../../Qt/5.14.2/gcc_64/include/QtGui/qtextoption.h \
+		../../../Qt/5.14.2/gcc_64/include/QtGui/qtextcursor.h \
+		../../../Qt/5.14.2/gcc_64/include/QtGui/qtextformat.h \
+		../../../Qt/5.14.2/gcc_64/include/QtGui/qpen.h \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/QVBoxLayout \
+		../../../Qt/5.14.2/gcc_64/include/QtWidgets/QWidget
 	$(CXX) -c $(CXXFLAGS) $(INCPATH) -o mainwindow.o ../mainwindow.cpp
 
 moc_customsqlmodel.o: moc_customsqlmodel.cpp 
