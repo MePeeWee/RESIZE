@@ -2,7 +2,7 @@
 #include "ui_mainwindow.h"
 
 //test mod for Git Test
-//In Qt Create
+//In Qt Create and test SSH key
 QString NAME;
 QString PWD;
 bool PASSWORDisVALID=false;
